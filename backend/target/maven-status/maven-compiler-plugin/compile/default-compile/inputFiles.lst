@@ -1,0 +1,8 @@
+/home/jit/dynui/dynamic-forms/backend/src/main/java/com/example/dynamicforms/entity/FormConfig.java
+/home/jit/dynui/dynamic-forms/backend/src/main/java/com/example/dynamicforms/repository/FormConfigRepository.java
+/home/jit/dynui/dynamic-forms/backend/src/main/java/com/example/dynamicforms/service/DynamicTableService.java
+/home/jit/dynui/dynamic-forms/backend/src/main/java/com/example/dynamicforms/repository/FormFieldRepository.java
+/home/jit/dynui/dynamic-forms/backend/src/main/java/com/example/dynamicforms/entity/FormField.java
+/home/jit/dynui/dynamic-forms/backend/src/main/java/com/example/dynamicforms/DynamicFormsApplication.java
+/home/jit/dynui/dynamic-forms/backend/src/main/java/com/example/dynamicforms/service/FormService.java
+/home/jit/dynui/dynamic-forms/backend/src/main/java/com/example/dynamicforms/controller/FormController.java

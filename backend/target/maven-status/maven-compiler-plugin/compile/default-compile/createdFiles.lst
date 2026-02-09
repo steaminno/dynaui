@@ -1,0 +1,8 @@
+com/example/dynamicforms/controller/FormController.class
+com/example/dynamicforms/repository/FormFieldRepository.class
+com/example/dynamicforms/service/DynamicTableService.class
+com/example/dynamicforms/repository/FormConfigRepository.class
+com/example/dynamicforms/entity/FormField.class
+com/example/dynamicforms/service/FormService.class
+com/example/dynamicforms/DynamicFormsApplication.class
+com/example/dynamicforms/entity/FormConfig.class
